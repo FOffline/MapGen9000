@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\typow\\Downloads\\MapGen9000VS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F3C52-7D0A-4E5B-9C41-2A8E5D7B0F13}|MapGen9000\\MapGen9000.csproj|c:\\users\\typow\\downloads\\mapgen9000vs\\mapgen9000\\mapgen9000.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B1F3C52-7D0A-4E5B-9C41-2A8E5D7B0F13}|MapGen9000\\MapGen9000.csproj|solutionrelative:mapgen9000\\mapgen9000.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapGen9000.csproj",
+              "DocumentMoniker": "C:\\Users\\typow\\Downloads\\MapGen9000VS\\MapGen9000\\MapGen9000.csproj",
+              "RelativeDocumentMoniker": "MapGen9000\\MapGen9000.csproj",
+              "ToolTip": "C:\\Users\\typow\\Downloads\\MapGen9000VS\\MapGen9000\\MapGen9000.csproj",
+              "RelativeToolTip": "MapGen9000\\MapGen9000.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T10:25:55.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
